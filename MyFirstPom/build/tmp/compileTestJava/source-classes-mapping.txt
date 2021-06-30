@@ -1,0 +1,8 @@
+com/demoqa/test/runers/RegisterNewUserRunner.java
+ com.demoqa.test.runers.RegisterNewUserRunner
+com/demoqa/test/runers/PracticeTextBoxRunner.java
+ com.demoqa.test.runers.PracticeTextBoxRunner
+com/demoqa/test/stepdefinitions/RegisterNewUserStepDefinitios.java
+ com.demoqa.test.stepdefinitions.RegisterNewUserStepDefinitios
+com/demoqa/test/stepdefinitions/PracticeTextBoxStepDefinitions.java
+ com.demoqa.test.stepdefinitions.PracticeTextBoxStepDefinitions
